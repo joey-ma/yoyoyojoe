@@ -34,6 +34,9 @@ Stack:
 
 Explored:
 
+Past contributions: 
+<a href="https://github.com/open-source-labs/Recoilize"><img src="[https://avatars.githubusercontent.com/u/11635254?s=200&v=4](https://www.recoilize.io/static/media/recoilize-gray-01.75757e59.png)" alt="Recoilize logo" title="Recoilize" width="50" /></a>
+
 
 Want to learn:
 
