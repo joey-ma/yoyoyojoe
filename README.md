@@ -2,9 +2,11 @@
 
 I love building applications and working across the stack, and my focus so far has been on web applications and technologies. I'm constantly looking to push myself and explore new opportunities, and I'm currently involved in several open-source communities. 
 
-- 🔭 I’m currently working on the next-generation backend database infrastructure for [Hack for LA][hfla]
-- 🌱 I’m currently exploring how to deploy a docker image on AWS, using ECR, ECS, RDS, Terraform and Terragrunt.
-- 💬 I'm currently learning... [Stripe Checkout][stripe_checkout], [Firebase][firebase], and... to put myself out there!
+I’m currently...
+- 💬 exploring [Stripe Checkout][stripe_checkout] with [ProgramEquity/Amplify][amplify]
+- 🔭 working on the next-generation backend database infrastructure for [Hack for LA][hfla]
+- 🌱 experimenting with deploying a Docker image on AWS, using ECR, ECS, RDS, Terraform and Terragrunt #DevOps
+- 🐦 learning to put myself out there! @_joey_ma
 
 - 📫 You can reach me at:  
   <p>
@@ -18,15 +20,43 @@ I love building applications and working across the stack, and my focus so far h
       <img alt="Medium" src="https://img.shields.io/badge/medium-989c9f.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
   </p>
 
-<!-- - 📫 Things I code with:  
-  <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+<!-- - 👓 Languages:
 
+  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![TS](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-3A75AF?style=for-the-badge&logo=java&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+- 🔧 Tools:  
+
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+  ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black)  
+  ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-003F8C?style=for-the-badge&logo=docker&logoColor=61DAFB) 
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+  ![Webpack](https://img.shields.io/badge/Webpack-323330?style=for-the-badge&logo=Webpack&logoColor=white&color=8DD6F9) 
+  ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/GitHub-%2330363C.svg?&style=for-the-badge&logo=Github&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
+
+- Postman
+- Insomnia
+- Google Cloud Platform
+- GraphQL
+- Heroku
+- Sass
+- Next.js
+- Angular
+- npm
+- MongoDB
+- D3.js
+
+  <p>
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -46,29 +76,16 @@ I love building applications and working across the stack, and my focus so far h
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p> -->
+</p>
+- 🌎 Environments:  
 
-<!-- 
-- 📫 Languages:  
+  ![Mac](https://img.shields.io/badge/Mac-DBE1E9?style=for-the-badge&logo=apple&logoColor=black) 
+  ![Windows](https://img.shields.io/badge/Windows-04A7E7?style=for-the-badge&logo=windows&logoColor=black) 
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![TS](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  -->
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 
-
-<!-- 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Webpack](https://img.shields.io/badge/Webpack-323330?style=for-the-badge&logo=Webpack&logoColor=white&color=8DD6F9) 
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
- -->
-
-<!---<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>--->
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
 
 <!--
 **yoyoyojoe/yoyoyojoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,10 +98,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 
 [hfla]: https://www.hackforla.org/
 [stripe_checkout]: https://stripe.com/docs/payments/checkout/fulfill-orders
-[firebase]: https://firebase.google.com/
-
+<!-- [firebase]: https://firebase.google.com/ -->
+[amplify]: https://github.com/ProgramEquity/amplify
