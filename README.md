@@ -1,6 +1,8 @@
 <h1> Hi, I'm Joey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-I love building applications and working across the stack, and my focus so far has been on web applications and technologies. I'm constantly looking to push myself and explore new opportunities, and I'm currently involved in several open-source communities. 
+I love building web applications. There's a particular sense of accomplishment bringing something useful to the users/clients. 
+I also love learning new things, whether that's exploring new technologies or digging deeper about the innerworkings of a useful tool.
+I enjoy being a generalist, working across the stack, but am also really comfortable with React, Node, Express, PostgreSQL, and MongoDB.
 
 I’m currently...
 - 💬 exploring [Stripe Checkout][stripe_checkout] with [ProgramEquity/Amplify][amplify]
